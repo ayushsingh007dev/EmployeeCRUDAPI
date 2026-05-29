@@ -33,13 +33,21 @@ Employee Management CRUD API built using ASP.NET Core Web API, Entity Framework 
 
 ## Run the Project
 
-1. Clone the repository
-2. Run:
+Clone the repository and navigate to the project folder:
 
-dotnet restore
+bash git clone https://github.com/ayushsingh007dev/EmployeeCRUD_API.git cd EmployeeCrudApi 
 
-dotnet run
+Restore dependencies:
 
+bash dotnet restore 
+
+Run the application:
+
+bash dotnet run 
+
+Open Swagger in your browser using the URL displayed in the terminal:
+
+text http://localhost:xxxx/swagger 
 3. Open Swagger:
 
 /swagger
