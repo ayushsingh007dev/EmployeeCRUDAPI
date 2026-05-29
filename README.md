@@ -35,7 +35,7 @@ Employee Management CRUD API built using ASP.NET Core Web API, Entity Framework 
 
 Clone the repository and navigate to the project folder:
 
-bash git clone https://github.com/ayushsingh007dev/EmployeeCRUD_API.git cd EmployeeCrudApi 
+bash git clone https://github.com/ayushsingh007dev/EmployeeCRUDAPI.git cd EmployeeCrudApi 
 
 Restore dependencies:
 
